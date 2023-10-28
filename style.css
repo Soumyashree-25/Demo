@@ -1,0 +1,29 @@
+h2{
+    color: palevioletred;
+    color: rgb(255, 10,200);
+}
+/* body{
+    background-color: lightblue;
+} */
+button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(87, 87, 253);
+    border-radius: 10px;
+    border-width: 1px;
+    cursor: pointer;
+}
+#A1{
+    color: darkgreen;
+}
+#A2{
+    color: rgb(52, 52, 52);
+}
+#A3{
+    color: rgb(161, 18, 147);
+}
+#A4{
+    color: rgb(197, 89, 31);
+}
+#A5{
+    color: rgb(0, 100, 98);
+}
